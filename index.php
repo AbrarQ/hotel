@@ -576,7 +576,7 @@
                                     </p>
                                 </div>
                                 <h3 class="card-title font-size-26"><a href="room-details.php"><?php echo $room['Room_Type_Name'];?></a></h3>
-                                <p class="card-text pt-2" style="min-height: 200px;max-height: 200px;overflow-y: scroll;"><?php echo $room['Room_Description'];?></p>
+                                <p class="card-text pt-2" style="min-height: 200px;max-height: 200px;overflow-y: scroll;color:#f6da86"><?php echo $room['Room_Description'];?></p>
                                 
                                 <div class="card-btn">
                                     <a href="room-details.php?Room_Type_ID=<?php echo $room['Room_Type_ID'];?>" class="theme-btn theme-btn-transparent">Book Now</a>
