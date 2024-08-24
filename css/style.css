@@ -4353,7 +4353,7 @@ body {
     color: #0d233e;
     margin-bottom: 2px; }
     .card-item .card-title a {
-      color: #0d233e;
+      color: #fff;
       -webkit-transition: all 0.3s;
       -moz-transition: all 0.3s;
       -ms-transition: all 0.3s;
